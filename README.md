@@ -67,7 +67,8 @@ Die Detailansicht bietet sowohl die Statistiken, als auch die Test der Gatemon-T
 
 ## Frameworks und technisches
 In der App wurden die folgenden Frameworks verwendet:
-* Roboguice - Dependency Injection für Android
+* Dagger - Dependecy Injector 
+* ButterKnife - Field and method binding
 * Robolectric - Unit Tests mit Android-Aphängigkeiten
 * jUnit - Unit Testing Framework
 * Mockito - Mocking Framework
